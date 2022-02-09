@@ -15,11 +15,13 @@
 
   "magisk": {
 
-    "version": "Telegram : @johnnash😎💪",
+    "version": "Telegram : @amandeep😎💪",
 
     "versionCode": "23",
 
-    "link": "https://github.com/amandeep79199/magic-magisk-23.0/blob/main/magisk-files%4023.0.apk",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
+
+    "note": "https://raw.githubusercontent.com/tecnical-ishaq/tecnical-ishaq/main/23000.md"
 
   },
 
@@ -27,11 +29,33 @@
 
     "versionCode": "21",
 
-    "link": "https://github.com/amandeep79199/magic-magisk-23.0/blob/main/magisk-files%4023.0.apk"
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
 
   }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
