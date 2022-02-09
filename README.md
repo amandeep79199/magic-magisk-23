@@ -15,7 +15,7 @@
 
   "magisk": {
 
-    "version": "Telegram : @amandeep79199😎💪",
+    "version": "modded by : amandeep 😎💪",
 
     "versionCode": "23",
 
