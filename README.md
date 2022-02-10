@@ -15,13 +15,13 @@
 
   "magisk": {
 
-    "version": "modded by : amandeep 😎💪",
+    "version": "Modded by : amandeep 😎💪",
 
     "versionCode": "23",
 
-    "link": "https://bit.ly/3GHAU13",
+    "link": "https://raw.githubusercontent.com/amandeep79199/magic-magisk-23.0/main/magisk-files%4023.0.apk",
 
-    "note": "https://bit.ly/3uD3A9g"
+    "note": "https://raw.githubusercontent.com/amandeep79199/magic-magisk-23.0/main/README.md"
 
   },
 
@@ -29,7 +29,7 @@
 
     "versionCode": "21",
 
-    "link": "https://bit.ly/3LkExxH"
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
 
   }
 
