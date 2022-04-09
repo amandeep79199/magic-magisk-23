@@ -9,7 +9,7 @@
 
     "link": "https://raw.githubusercontent.com/amandeep79199/magic-magisk-23/main/magisk-files%4023.0.apk",
 
-    "note": "https://raw.githubusercontent.com/amandeep79199/magic-magisk-23/main/README.md"
+    "note": "https://raw.githubusercontent.com/amandeep79199/magic-magisk-23/"
 
   },
 
